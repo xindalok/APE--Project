@@ -1,0 +1,9 @@
+Product,Type,Revenue_Percent,Min_Income_Req,Risk_Level
+ILP Alpha,ILP,0.9,3000,High
+ILP Beta,ILP,0.85,4000,High
+Endowment A,Endowment,0.7,2500,Medium
+Endowment B,Endowment,0.68,2000,Medium
+Mortgage Plan 1,Mortgage,0.1,3000,Low
+Mortgage Plan 2,Mortgage,0.12,4000,Low
+Term Basic,Term,0.75,2500,Medium
+Term Plus,Term,0.78,3000,Medium
